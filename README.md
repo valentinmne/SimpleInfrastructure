@@ -3,7 +3,7 @@ Project to perfect my infrastructure/coding/security skills
 
 Coding : 
   - Python
-      - Pip8
+      - Pep8
 
 Infra :
   - Minikube
