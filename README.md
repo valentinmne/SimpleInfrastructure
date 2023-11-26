@@ -9,7 +9,7 @@ Infra :
   - Minikube
   - Terraform
   - Traefik
-  - Monitoring Stack (Not decided yet)
+  - Monitoring Stack OpenTelemetry
   - ArgoCD
   - Vault
   - Github Actions
