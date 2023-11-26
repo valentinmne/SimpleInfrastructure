@@ -1,7 +1,9 @@
 # Simple Infrastructure
 Project to perfect my infrastructure/coding/security skills
 
-Coding : Python
+Coding : 
+  - Python
+      - Pip8
 
 Infra :
   - Minikube
