@@ -6,13 +6,13 @@ Coding :
       - Pep8
 
 Infra :
-  - Minikube
+  - AWS
   - Terraform
-  - Traefik
+  - Nginx RP
   - Monitoring Stack OpenTelemetry
   - ArgoCD
   - Vault
-  - Github Actions
+  - Github Actions / GitlabCI 
 
 Security :
   - Sonar ?
